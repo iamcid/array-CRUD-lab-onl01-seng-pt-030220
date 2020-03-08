@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  array = ["wow","am","I","ginger ale"]
+  array = ["wow","I","am","really", "learning"]
 end
 
 def add_element_to_end_of_array(array, element)
-  sodas = ["coke","pepsi", "sprite", "ginger ale"]
-  sodas << "arrays!"
+  array = ["","pepsi", "sprite", "ginger ale"]
+  array << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
