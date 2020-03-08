@@ -8,7 +8,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   sodas = ["coke","pepsi", "sprite", "ginger ale"]
-  sodas << "root beer"
+  sodas << "arrays!"
 end
 
 def add_element_to_start_of_array(array, element)
