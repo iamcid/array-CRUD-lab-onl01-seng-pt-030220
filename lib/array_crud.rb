@@ -29,7 +29,7 @@ def remove_element_from_start_of_array(array)
 end
 
 def retrieve_element_from_index(array, index_number)
-  sodas = ["coke", "am", "sprite", "ginger ale"]
+  array = ["wow", "I", "am", "really", "learning"]
   sodas [1]
 end
 
