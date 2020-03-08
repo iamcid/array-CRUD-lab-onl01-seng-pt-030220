@@ -12,7 +12,7 @@ def add_element_to_end_of_array(array, element)
 end
 
 def add_element_to_start_of_array(array, element)
-  sodas = ["coke", "pepsi", "sprite", "ginger ale"]
+  array = ["I", "am","really", "learning"]
   sodas.unshift ("wow")
 end
 
