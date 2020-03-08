@@ -18,8 +18,8 @@ end
 
 def remove_element_from_end_of_array(array)
   sodas = ["coke", "pepsi", "sprite", "ginger ale"]
-  ginger_ale = sodas.pop
-  puts "ginger ale"
+  arrays = sodas.pop
+  puts "arrays!"
 end
 
 def remove_element_from_start_of_array(array)
