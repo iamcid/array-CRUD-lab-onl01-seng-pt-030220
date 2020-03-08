@@ -34,8 +34,8 @@ def retrieve_element_from_index(array, index_number)
 end
 
 def retrieve_first_element_from_array(array)
-  sodas = ["wow","pepsi", "sprite", "ginger ale"]
-  sodas.first
+  array = ["wow","am", "really", "learning"]
+  array.first
 end
 
 def retrieve_last_element_from_array(array)
