@@ -23,8 +23,8 @@ def remove_element_from_end_of_array(array)
 end
 
 def remove_element_from_start_of_array(array)
-  sodas = ["coke", "pepsi", "sprite", "ginger ale"]
-  wow = sodas.shift
+  array = ["wow", "I", "am", "really", "learning"]
+  wow = array.shift
   return "wow"
 end
 
